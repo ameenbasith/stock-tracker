@@ -143,7 +143,7 @@ streamlit run app.py
 - Mobile-friendly interface
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourgithub)
+- Ameen (https://github.com/ameenbasith)
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
