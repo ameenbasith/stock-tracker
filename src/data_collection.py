@@ -99,7 +99,7 @@ if __name__ == "__main__":
     if not data.empty:
         print("\nData summary:")
         print(f"Date range: {data['Date'].min()} to {data['Date'].max()}")
-        print(f"Average closing price: ${float(data['Close'].mean()):.2f}")
-        print(f"Price range: ${float(data['Low'].min()):.2f} to ${float(data['High'].max()):.2f}")
+        print(f"Average closing price: ${data['Close'].mean().iloc[0]:.2f}")
+        print(f"Price range: ${data['Low'].min().iloc[0]:.2f} to ${data['High'].max().iloc[0]:.2f}")
 
     save_to_csv(data, ticker)
