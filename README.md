@@ -144,6 +144,7 @@ streamlit run app.py
 
 ## 👥 Contributors
 - Ameen (https://github.com/ameenbasith)
+- Check out the Medium article I wrote: https://medium.com/@ameenbasith2000/building-predictwise-how-i-created-an-ml-powered-stock-forecasting-tool-as-a-complete-investment-d63d3ba8d200
 
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
